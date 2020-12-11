@@ -13,7 +13,7 @@ function sign() {
   url.headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
   url.headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15'
 
-  chavy.get(url, (error, response, data) => {
+  chavy.post(url, (error, response, data) => {
     let result = JSON.parse(data)
     let title = `${cookieName}`
     // 签到成功
