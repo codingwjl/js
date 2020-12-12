@@ -1,7 +1,6 @@
 const cookieName = 'Fa米家'
 const chavy = init()
-const token = 'eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jUFOAzEQBP8y57UU74zHa_-ACwfOvozXY7EIpFWcSIgoL4iUe17BD3gOiF9gQrh1V3erD_C0WyCCm7xoYTKcdTakUzZSqZp59oUIbc05wABtn3v5kGDfdHsvL5ogJvg6nz4v798flwTDX3RXrgEHRGS0JOi8uJHZiUdneXQWNyx-6oxopMoeC5brXtb1Nu_K5OUtwbFfL6316xv69bKDaHnjOUzIfgB9XSGSDeEfLO1B61bbI8Qqz02PPwAAAP__.VgTO1-nuF1akxcQMWTlcegkmzhxPsCKI8P-Nn2POxTDN_BwNaZhZxoct32c4ZmNIYpan5AM4CHKfDKW3z-ZVGQ'
-// const cookieVal = 'sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%221765295e1159b5-0ef06679b5b485-754c1551-304500-1765295e116db6%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22%24device_id%22%3A%221765295e1159b5-0ef06679b5b485-754c1551-304500-1765295e116db6%22%7D; sajssdk_2015_cross_new_user=1'
+const token = '你的token'
 
 sign()
 
